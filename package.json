@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "supervisor start app01.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "supervisor": "^0.12.0"
+  }
+}
